@@ -9,7 +9,7 @@
 > A Rest API that helps you to manage orders on a delivery system :rocket:
 
 <p align="center">
-  <img align="center" src="https://i.ibb.co/5Y4xYqK/Cities-Brazil-I.png" alt="dsdelivery-API" border="0">
+  <img align="center" src="https://i.ibb.co/J3pp3fx/dsdelivery-api.png" alt="dsdelivery-API" border="0">
 </p>
 
 
